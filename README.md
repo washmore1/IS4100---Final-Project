@@ -11,7 +11,7 @@ among other things:
 5. Poisson - (Poisson_WA.ipynb)
 6. Web Scraping - (WebScraping_WA.ipynb)
 7. PCA & Clustering - (PCAClustering_WA.ipynb)
-8. Final Analysis - ()
+8. Final Analysis - (FinalAnalysis_WA.ipynb)
 
 **Skills I have Practice & Developed**
 - Advanced in my Python abilities
