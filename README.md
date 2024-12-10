@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/kZzY6eKKPdIjK" width="480" height="446" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kZzY6eKKPdIjK">via GIPHY</a></p>
+![istockphoto-1127929107-612x612](https://github.com/user-attachments/assets/b31bfed3-7be2-4b70-88f0-120a1c549a52)
 
 This GitHub repository is a consolidation and culmination of the work I have done throughout the fall semester in IS 4100, Sports Analytics Development.
 Primarily throughout this course, we have used the NFL_data_py API, looking mostly at play-by-play data from the 2016-2024 seasons. This repository includes my
